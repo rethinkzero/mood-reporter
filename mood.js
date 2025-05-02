@@ -40,4 +40,4 @@ function getMoodMessage(name, mood) {
 }
 
 let finalMessage = getMoodMessage("Jordan", "stressed");
-console.log(message);
+console.log(finalMessage);
